@@ -17,3 +17,7 @@ Bir P noktasının, {A} ve {B} koordinat eksenlerine göre, gösterimi sırasıy
 ![A-B-koordinat-ekseni](https://user-images.githubusercontent.com/53192718/88223847-ce6ee900-cc70-11ea-9e5d-5dbbcdaa8253.png)
 
 ![donusum-matrisleri](https://user-images.githubusercontent.com/53192718/88224132-36253400-cc71-11ea-8e5b-ad2f03bfa9c4.png)
+
+## 2. UML
+
+![uml-point-cloud](https://user-images.githubusercontent.com/53192718/88226271-7c2fc700-cc74-11ea-90e6-e4fc8baad7b4.png)
