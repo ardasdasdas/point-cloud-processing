@@ -29,7 +29,7 @@ Bir P noktasının, {A} ve {B} koordinat eksenlerine göre, gösterimi sırasıy
 ![uml-point-cloud](https://user-images.githubusercontent.com/53192718/88226271-7c2fc700-cc74-11ea-90e6-e4fc8baad7b4.png)
 
 ## 3. [CloudCompare](http://www.cloudcompare.org/) Program Çıktısı
-Son [koorinatları](https://github.com/ardasdasdas/point-cloud-processing/blob/master/srcs/lastPoints.txt) CloudCompare programı ile açtığımız zaman aşağıdaki şekil elde edilmektedir.
+Son [koordinatları](https://github.com/ardasdasdas/point-cloud-processing/blob/master/srcs/lastPoints.txt) CloudCompare programı ile açtığımız zaman aşağıdaki şekil elde edilmektedir.
 
 ![CloudCompare-ciktisi](https://user-images.githubusercontent.com/53192718/88227695-a1bdd000-cc76-11ea-9340-5998584e4742.png)
 
