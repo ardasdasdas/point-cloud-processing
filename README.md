@@ -1,4 +1,10 @@
 # Nokta Bulutu İşleme
+
+### 1 - [Giriş](https://github.com/ardasdasdas/point-cloud-processing#1-giri%C5%9F)
+### 2 - [UML](https://github.com/ardasdasdas/point-cloud-processing#2-uml)
+### 3 - [CloudCompare]()
+### 4 - [Takım Üyeleri]()
+
 ## 1. Giriş
 Projenin kapsamı, nokta bulutları (Point Cloud) ve nokta bulutları üzerinde işlemleri kapsamaktadır. Şekil 1’de resmi verilen derinlik kamerası, görüş alanı içerisinde renkli piksel değerleri yanına derinlik bilgisi de sunmaktadır. Elde edilen 3B derinlik bilgisi kameraya göre tanımlı 3B noktalarla ifade edilmektedir. Bu noktaların oluşturduğu noktalar kümesine nokta bulutu adı verilir. Şekil 1’de bir tavşan yüzeyinden elde edilen nokta bulutunun gösterimi verilmektedir.
 
@@ -21,3 +27,15 @@ Bir P noktasının, {A} ve {B} koordinat eksenlerine göre, gösterimi sırasıy
 ## 2. UML
 
 ![uml-point-cloud](https://user-images.githubusercontent.com/53192718/88226271-7c2fc700-cc74-11ea-90e6-e4fc8baad7b4.png)
+
+## 3. [CloudCompare](http://www.cloudcompare.org/) Program Çıktısı
+Son [koorinatları](https://github.com/ardasdasdas/point-cloud-processing/blob/master/srcs/lastPoints.txt) CloudCompare programı ile açtığımız zaman aşağıdaki şekil elde edilmektedir.
+
+![CloudCompare-ciktisi](https://user-images.githubusercontent.com/53192718/88227695-a1bdd000-cc76-11ea-9340-5998584e4742.png)
+
+## 4. Takım Üyeleri
+* [Muzaffer Arda Uslu](https://github.com/ardasdasdas)
+* [Gökhan Samet Albayrak](https://github.com/gokhansamet)
+* [Pınar Kızılarslan](https://github.com/pinarkizilarslan)
+* [Damla Dalgıç](https://github.com/damladlg)
+* Berkay Gönenç Göksal
