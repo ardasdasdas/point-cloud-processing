@@ -2,8 +2,8 @@
 
 ### 1 - [Giriş](https://github.com/ardasdasdas/point-cloud-processing#1-giri%C5%9F)
 ### 2 - [UML](https://github.com/ardasdasdas/point-cloud-processing#2-uml)
-### 3 - [CloudCompare]()
-### 4 - [Takım Üyeleri]()
+### 3 - [CloudCompare](https://github.com/ardasdasdas/point-cloud-processing/blob/master/README.md#3-cloudcompare-program-%C3%A7%C4%B1kt%C4%B1s%C4%B1)
+### 4 - [Takım Üyeleri](https://github.com/ardasdasdas/point-cloud-processing/blob/master/README.md#4-tak%C4%B1m-%C3%BCyeleri)
 
 ## 1. Giriş
 Projenin kapsamı, nokta bulutları (Point Cloud) ve nokta bulutları üzerinde işlemleri kapsamaktadır. Şekil 1’de resmi verilen derinlik kamerası, görüş alanı içerisinde renkli piksel değerleri yanına derinlik bilgisi de sunmaktadır. Elde edilen 3B derinlik bilgisi kameraya göre tanımlı 3B noktalarla ifade edilmektedir. Bu noktaların oluşturduğu noktalar kümesine nokta bulutu adı verilir. Şekil 1’de bir tavşan yüzeyinden elde edilen nokta bulutunun gösterimi verilmektedir.
